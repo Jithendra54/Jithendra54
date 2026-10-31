@@ -8,6 +8,7 @@ Building useful things with code — from browser-based AI to machine-learning e
 
 <a href="https://www.linkedin.com/in/jithendra-vishnu-a48143313/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jvienu549584@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://jithendra54.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/Jithendra54"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
